@@ -30,8 +30,6 @@ This web application allows:
   - Views for UI rendering
   - Public assets for styling
 
----
-
 ## Concepts Covered
 
 ### Backend Development
