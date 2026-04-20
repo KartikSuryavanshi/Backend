@@ -1,11 +1,6 @@
-# 🖥️ Backend – Node.js & Express.js Mini Project
+# Backend – Node.js & Express.js Mini Project
 
-## 👤 Author
-**Kartik Suryavanshi**
-
----
-
-## 📌 About This Repository
+## About This Repository
 This repository contains a **backend-focused mini project** built using **Node.js** and **Express.js**, aimed at understanding **core backend concepts** and **server-side development workflows**.
 
 The project demonstrates how to:
@@ -16,9 +11,7 @@ The project demonstrates how to:
 
 Along with the project code, this repository also includes a **Backend Core Concepts PDF** for theoretical understanding.
 
----
-
-## 🚀 Project Overview
+## Project Overview
 This web application allows:
 
 - **User Creation**
@@ -39,9 +32,9 @@ This web application allows:
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
-### 🔹 Backend Development
+### Backend Development
 - Node.js fundamentals
 - Express.js framework
 - Routing & middleware
@@ -49,20 +42,18 @@ This web application allows:
 - Static files handling
 - Template rendering using **EJS**
 
-### 🔹 Application Structure
+### Application Structure
 - Separation of concerns
 - Organized folder structure
 - Server initialization & configuration
 - Package management with npm
 
----
+## Learning Resource (PDF Included)
 
-## 📄 Learning Resource (PDF Included)
-
-### 📘 Backend Core Concepts
+### Backend Core Concepts
 This repository includes a dedicated PDF:
 
-**📄 Backend Core Concepts.pdf**
+**Backend Core Concepts.pdf**
 
 It covers:
 - What is Backend Development
@@ -76,9 +67,7 @@ It covers:
 
 This makes the repository useful for **both practice and theory**.
 
----
-
-## 🛠 Tech Stack Used
+## Tech Stack Used
 - **Node.js**
 - **Express.js**
 - **EJS (Template Engine)**
@@ -86,9 +75,7 @@ This makes the repository useful for **both practice and theory**.
 - **HTML & CSS**
 - **npm (Node Package Manager)**
 
----
-
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Clone the repository
 2. Navigate to the project directory
 3. Install dependencies:
@@ -98,7 +85,7 @@ This makes the repository useful for **both practice and theory**.
 5. Open your browser and visit:
    http://localhost:3000
 
-##🎯 Purpose of This Repository
+## Purpose of This Repository
 
 1.Learn backend fundamentals
 2.Practice Node.js & Express
